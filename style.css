@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    color:grey;
+}
+img{
+    
+ border-width:2px;
+ border-style:solid;
+ border-color:black;
+height:275px;
+ 
+ 
+}
+
+
+.row{
+	margin-bottom:2%;
+}
+
+figure{
+    
+ border-width:2px;
+ border-style:solid;
+ border-color:black;
+ background-color: black;
+ color:white;
+
+ 
+}
